@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IPMaskerAPI", "IPMaskerAPI.csproj", "{50319115-914B-4BC2-8920-3C6AF20475E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50319115-914B-4BC2-8920-3C6AF20475E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50319115-914B-4BC2-8920-3C6AF20475E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50319115-914B-4BC2-8920-3C6AF20475E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50319115-914B-4BC2-8920-3C6AF20475E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60E5A3B8-B86E-4159-A2D2-72D643DE3F62}
+	EndGlobalSection
+EndGlobal
